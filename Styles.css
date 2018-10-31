@@ -1,0 +1,26 @@
+/*General*/
+#imagenavegador{
+  background-color: darkgoldenrod;
+}
+body{
+  background: url('img/Japan_Kyoto.jpg') fixed ;
+}
+
+.imagenPie{
+  background: url('img/585234.jpg');
+}
+.pieIzquierdo{
+  width: 20%;
+}
+.pieDerecho{
+  width: 40%;
+}
+/*Index*/
+.imagenGaleria:hover
+{
+  filter: opacity(.5);
+  color:black;
+}
+
+/*Eventos*/
+
