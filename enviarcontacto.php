@@ -21,5 +21,5 @@ $asunto = 'Mensaje de Web Daiyamondo';
 
 mail($para,$asunto,utf8_decode($mensaje), $header);
 echo "<script type='text/javascript'>alert('Tu mensaje ha sido enviado exitosamente');</script>";
-echo "<script type='text/javascript'>window.location.href='contactos.html';</script>";
+echo "<script type='text/javascript'>window.location.href='daiyamondo.cl/contactos.html';</script>";
 ?>
